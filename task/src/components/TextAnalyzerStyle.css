@@ -1,0 +1,30 @@
+.textareaincrease{
+
+    height: 100px;
+
+}
+.btn-space {
+    margin-right: 6px;
+    margin-bottom: 9px;
+}
+.navb{
+    margin-left: 600px;
+}
+.textanalyze{
+    margin-top: 70px;
+}
+.notification {
+    background-color: #c7f1c9;
+    color:rgb(24, 110, 50);
+    /* text-align: center; */
+    padding: 13px;
+    position: fixed;
+    top: 65px;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.9;
+    z-index: 999;
+  }
+  input[type="checkbox"]:checked{
+    background-color: #0d6efd;
+  }
